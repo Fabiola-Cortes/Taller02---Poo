@@ -2,7 +2,7 @@
 
 ## **Integrantes**
 
-* **Nombre:** Fabiola Cortés Acuña | **RUT:** 21-822-463-6 | **Usuario GitHub:** Fabiola-Cortes | **Carrera:** Ingeniería Civil en Computación e Informática (ICCI)
+* **Nombre:** Fabiola Cortés Acuña | **RUT:** 21.822.463-6 | **Usuario GitHub:** Fabiola-Cortes | **Carrera:** Ingeniería Civil en Computación e Informática (ICCI)
 
 ## **Descripción del Proyecto**
 
